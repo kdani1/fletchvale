@@ -4,6 +4,8 @@ A colorful kid-friendly archery adventure: campaign levels, free play, a bow sho
 
 The name is **Fletchvale** — a sunny valley where every shot starts with a nocked arrow and a little bit of luck.
 
+GitHub: https://github.com/kdani1/fletchvale
+
 ## Play
 
 - Bright, easy-to-read menu: Levels, Free Play, Shop, Sound.
